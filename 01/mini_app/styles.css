@@ -1,0 +1,38 @@
+
+        nav{
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+        nav a{
+            color: white;
+            text-decoration: none;
+            padding: 10px;  
+        }
+        body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    input {
+      display: block;
+      margin-bottom: 5px;
+      padding: 8px;
+      width: 300px;
+    }
+    label {
+      margin-top: 10px;
+    }
+    small {
+      display: block;
+      margin-bottom: 10px;
+    }
+    .valid {
+      color: green;
+    }
+    .invalid {
+      color: red;
+    }
+    button {
+      padding: 10px 20px;
+      margin-top: 15px;
+    }
