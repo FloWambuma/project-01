@@ -10,8 +10,9 @@
     <?php include 'navbar.php'; ?>
     <h1>About Us</h1>
     <p>We are commited to providing students with individualized training through comprehensive, innovative, and high-quality vocational programs that prepare students for rewarding careers in rapidly increasing industries</p>
+    <img src="" alt="text image"><br>
     <button>More About Us</button>
-    <img src="ist image" alt="text image">
+ 
     <footer></footer>
 </body>
 </html>
